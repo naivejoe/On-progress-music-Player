@@ -1,0 +1,201 @@
+
+/*
+font-family: 'Pacifico', cursive;
+font-family: 'Exo', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+*/
+body{
+	background-image: url(images/background%20image.jpg);
+	background-attachment: fixed;
+	height: 1800px;
+	width: 1370px;
+}
+
+
+
+div.home_list ul li{
+	
+	list-style-type: none;
+	background-color: black;
+	padding: 20px;
+	float:left;
+	text-align: center;
+	width: 280px;
+	height: 11px;
+	border: 1px solid black;
+	
+	}
+
+
+div.home_list ul li a{
+	text-decoration: none;
+	font-family: 'Josefin Sans', sans-serif;
+	color: whitesmoke;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+
+
+div.home_list ul li a:hover{
+	color: red;
+}
+
+div.home_list ul li a:active{
+	color: red;
+}
+
+#block1{
+	background-color: whitesmoke;
+    position: absolute;
+	top: 90px;
+	width: 1300px;
+	left: 15px;
+	font-family: 'Exo', sans-serif;
+	padding: 15px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	font-size: 25px;
+	border-radius: 15px;
+	text-align: center;
+
+}
+
+#btn-album{
+	position: absolute;
+	top: 60%;
+	left: 36%;
+	border: none;
+	font-size: 25px;
+	font-family: 'Exo', sans-serif;
+	background-color: black;
+	color: white;
+	padding-top: 18px;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 15px;
+	border-radius: 60px;
+	letter-spacing: 2.5px;
+
+	
+}
+
+#btn-song{
+		position: absolute;
+	top: 60%;
+	left: 55%;
+	border: none;
+	font-size: 25px;
+	font-family: 'Exo', sans-serif;
+	background-color: black;
+	color: white;
+	padding-top: 18px;
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-bottom: 15px;
+	border-radius: 60px;
+	letter-spacing: 2.5px;
+	
+}
+
+#btn-art{
+	position: absolute;
+	top: 80%;
+	left: 39%;
+	border: none;
+	background-color: #d01414;
+	color: whitesmoke;
+	padding: 15px;
+	font-size: 20px;
+	letter-spacing: 2.5px;
+}
+
+
+/*
+body{
+	background-image: url(images/background%20image.jpg);
+	background-attachment: fixed;
+	height: 1800px;
+	width: 1370px;
+}
+*/
+
+.container{
+	position: absolute;
+	left: 200px;
+	/*grid-template-columns: auto auto auto auto;
+	*/
+	top: 700px;
+	padding: 5px;
+	width: 1000px;
+	height: 800px;
+	border: 1px solid black;
+}
+
+
+
+
+ 
+
+
+
+
+
+
+
+/*
+<li><a href="Home.html">HOME</a></li>
+<li><a href="About.html">ABOUT</a></li>
+<li><a href="groove.html">MIX</a></li>
+<li><a href="Contact.html">EMAIL US</a></li>
+
+*/
+
+/*#canvas1{
+	width: 100%;
+	background-color:
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
